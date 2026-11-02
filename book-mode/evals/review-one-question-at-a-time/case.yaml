@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: review-one-question-at-a-time
+expected_outcome: |
+  The skill runs the recall card as a quiz: it asks only the first question, reveals no answers, and
+  waits for the reader to answer from memory.

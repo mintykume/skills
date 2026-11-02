@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: flow-mode-argument-map
+expected_outcome: |
+  Because the reader asked for flow, Chapter 1 is followed in the same reply by its Argument Map: a
+  one-sentence claim, 2-4 numbered premises, 1-2 assumptions, the strongest objection, at most 5 doors
+  that each name a node and what is at stake, and 2-3 questions labeled by type. No checkpoint is
+  asked.

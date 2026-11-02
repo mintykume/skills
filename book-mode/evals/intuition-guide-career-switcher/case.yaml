@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: intuition-guide-career-switcher
+expected_outcome: |
+  The skill builds the intuition field guide as a document the reader keeps, with the nine sections in
+  order (Read this first, core mental models, number shortcuts, what each part wants, reading the
+  notation, unwritten practical rules, learning order, shortcuts later, pocket card). Mental models
+  carry test questions, typical numbers are marked as typical, and analogies say where they break. The
+  chat ends with one short line and the link or file.

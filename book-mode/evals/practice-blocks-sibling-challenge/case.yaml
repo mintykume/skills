@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: practice-blocks-sibling-challenge
+expected_outcome: |
+  The skill delivers practice blocks as separate runnable files, one idea per file, ordered by
+  dependency, each starting with PREDICT, RUN (a clang++ command for macOS), BREAK IT and EXPLAIN. One
+  block shows the shallow-copy double free and its fix. The rebuild challenge is a sibling of the lab
+  (a different resource-owning class, not Matrix) with PASS/FAIL tests and a separate solution file.
+  Everything was compiled and run before hand-over.

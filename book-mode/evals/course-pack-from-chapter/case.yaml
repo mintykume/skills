@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: course-pack-from-chapter
+expected_outcome: |
+  The skill builds a course pack from the reader's excerpt. The notes follow sections 4.1 and 4.2 in
+  order with their page references; each section opens with a one-line process phrase; the Routh
+  table construction and the sign-change rule are there; CRITICAL marks are rare and give reasons;
+  nothing contradicts the excerpt, and anything from outside it is marked. The podcast is a separate
+  script of roughly 30 minutes, spoken by one fictional professor, written for the ear, covering
+  history, a present-day use and an analogy with its limits, ending with questions for the walk.
+  There are 10-15 recall flashcards with page references, and a suggested order of use.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: opens-book-with-checkpoint
+expected_outcome: |
+  The reply opens a book: a title, the central question in one sentence, a table of contents of 5-9
+  chapters with one-line promises, a one-line note on checkpoints and flow, then Chapter 1 in the same
+  reply. Chapter 1 is continuous prose that builds the mechanism step by step, ends with a Sources
+  line and a one-sentence checkpoint, and does not yet show the Argument Map.
